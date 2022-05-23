@@ -15,4 +15,3 @@
 ```pip install requests```
 3. 看到 Success 字樣代表成功
 4. 最後執行程式 在窗口輸入python3 app.py
-5. 
