@@ -45,3 +45,5 @@ index()
 index_path()
 driver.find_element(By.XPATH,"/html/body/form/div[3]/div[2]/div/table/tbody/tr[5]/td/div/table/tbody/tr[12]/td/table/tbody/tr/td[3]/a").click()
 index_end()
+
+driver.close()
