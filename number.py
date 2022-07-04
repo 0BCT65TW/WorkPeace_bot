@@ -1,0 +1,5 @@
+temp_a = 'IGB3-08490'
+temp_b = 'IGB3-08081'
+temp_c = 'IGB3-08426'
+temp_d = 'IGB3-08423'
+temp_e = '7018'
